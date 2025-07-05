@@ -1,7 +1,7 @@
 
 # Hello I'm Dzulfqrr 👋🏻
 ## **About** **Me** **:**
-#- 🧑‍💻 Developer (Web, Mobile, IoT,dll.)<br>- 🖥️ SysAdmin (Linux, Server, Cloud)<br>- 🧠 AI Automation Specialist (Python, Machine Learning)<br>- ✍️ Content Creator (Tutorial, Blog, Video)<br>- 🎨 Freelance Graphic Designer (Branding, UI/UX)<br>
+ - 🧑‍💻 Developer (Web, Mobile, IoT,dll.)<br>- 🖥️ SysAdmin (Linux, Server, Cloud)<br>- 🧠 AI Automation Specialist (Python, Machine Learning)<br>- ✍️ Content Creator (Tutorial, Blog, Video)<br>- 🎨 Freelance Graphic Designer (Branding, UI/UX)<br>
 
 
 ## 🌐 Socials:
