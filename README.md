@@ -1,10 +1,3 @@
-## Hello , I'm Dzulfqrr👋
-
-<!--
-**dzulfqrr/dzulfqrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 - 🧑‍💻 Developer (Web, Mobile, IoT,dll.)<br>- 🖥️ SysAdmin (Linux, Server, Cloud)<br>- 🧠 AI Automation Specialist (Python, Machine Learning)<br>- ✍️ Content Creator (Tutorial, Blog, Video)<br>- 🎨 Freelance Graphic Designer (Branding, UI/UX)<br>
 
@@ -23,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=dzulfqrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
